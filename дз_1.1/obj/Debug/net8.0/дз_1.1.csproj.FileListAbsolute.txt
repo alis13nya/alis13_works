@@ -1,0 +1,14 @@
+E:\5 семестр\паша\дз_1.1\bin\Debug\net8.0\дз_1.1.exe
+E:\5 семестр\паша\дз_1.1\bin\Debug\net8.0\дз_1.1.deps.json
+E:\5 семестр\паша\дз_1.1\bin\Debug\net8.0\дз_1.1.runtimeconfig.json
+E:\5 семестр\паша\дз_1.1\bin\Debug\net8.0\дз_1.1.dll
+E:\5 семестр\паша\дз_1.1\bin\Debug\net8.0\дз_1.1.pdb
+E:\5 семестр\паша\дз_1.1\obj\Debug\net8.0\дз_1.1.GeneratedMSBuildEditorConfig.editorconfig
+E:\5 семестр\паша\дз_1.1\obj\Debug\net8.0\дз_1.1.AssemblyInfoInputs.cache
+E:\5 семестр\паша\дз_1.1\obj\Debug\net8.0\дз_1.1.AssemblyInfo.cs
+E:\5 семестр\паша\дз_1.1\obj\Debug\net8.0\дз_1.1.csproj.CoreCompileInputs.cache
+E:\5 семестр\паша\дз_1.1\obj\Debug\net8.0\дз_1.1.dll
+E:\5 семестр\паша\дз_1.1\obj\Debug\net8.0\refint\дз_1.1.dll
+E:\5 семестр\паша\дз_1.1\obj\Debug\net8.0\дз_1.1.pdb
+E:\5 семестр\паша\дз_1.1\obj\Debug\net8.0\дз_1.1.genruntimeconfig.cache
+E:\5 семестр\паша\дз_1.1\obj\Debug\net8.0\ref\дз_1.1.dll
